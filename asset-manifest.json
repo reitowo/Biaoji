@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Biaoji/static/css/main.5f73a7e9.chunk.css",
+    "main.js": "/Biaoji/static/js/main.247eb72a.chunk.js",
+    "main.js.map": "/Biaoji/static/js/main.247eb72a.chunk.js.map",
+    "runtime-main.js": "/Biaoji/static/js/runtime-main.acc3e7bf.js",
+    "runtime-main.js.map": "/Biaoji/static/js/runtime-main.acc3e7bf.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Biaoji/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.74d3be28.chunk.js": "/Biaoji/static/js/2.74d3be28.chunk.js",
+    "static/js/2.74d3be28.chunk.js.map": "/Biaoji/static/js/2.74d3be28.chunk.js.map",
+    "static/js/3.fa388314.chunk.js": "/Biaoji/static/js/3.fa388314.chunk.js",
+    "static/js/3.fa388314.chunk.js.map": "/Biaoji/static/js/3.fa388314.chunk.js.map",
+    "index.html": "/Biaoji/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Biaoji/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.5f73a7e9.chunk.css.map": "/Biaoji/static/css/main.5f73a7e9.chunk.css.map",
+    "static/js/2.74d3be28.chunk.js.LICENSE.txt": "/Biaoji/static/js/2.74d3be28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acc3e7bf.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.74d3be28.chunk.js",
+    "static/css/main.5f73a7e9.chunk.css",
+    "static/js/main.247eb72a.chunk.js"
+  ]
+}
